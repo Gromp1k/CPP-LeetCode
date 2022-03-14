@@ -1,4 +1,4 @@
-# CPP
+# CPP-LeetCode
 
 This repo is collection of my Leetcode's problem solutions. Grouped by diff. level in 3 files:
 * Easy - EasyLeadCode.h
